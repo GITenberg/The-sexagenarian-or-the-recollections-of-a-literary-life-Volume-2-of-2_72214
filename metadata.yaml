@@ -1,0 +1,40 @@
+_repo: The-sexagenarian-or-the-recollections-of-a-literary-life-Volume-2-of-2_72214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beloe, William
+    birthdate: 1756
+    deathdate: 1817
+    gutenberg_agent_id: '56593'
+    url: http://www.gutenberg.org/2009/agents/56593
+    wikipedia: https://en.wikipedia.org/wiki/William_Beloe
+  editor:
+    agent_name: Rennell, Thomas
+    birthdate: 1787
+    deathdate: 1824
+    gutenberg_agent_id: '56585'
+    url: http://www.gutenberg.org/2009/agents/56585
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Rennell_(scholar)
+description: ''
+gutenberg_issued: '2023-11-24'
+identifiers:
+  gutenberg: '72214'
+language: en
+pgterms:marc904: https://archive.org/details/sexagenarianorre02beloiala
+pgterms:marc905: 20070601134738beloe
+pgterms:marc906: '1817'
+pgterms:marc907: GB
+production_note: Andrew Sly, MFR and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bF.C. and J. Rivington, $c1817.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English'
+- !lcsh 'Beloe, William, 1756-1817'
+- !lcsh 'English literature -- Anecdotes'
+- !lcc 'PR'
+- GITenberg
+title: The sexagenarian; or, the recollections of a literary life (Volume 2 of 2)
+url: http://www.gutenberg.org/ebooks/72214
