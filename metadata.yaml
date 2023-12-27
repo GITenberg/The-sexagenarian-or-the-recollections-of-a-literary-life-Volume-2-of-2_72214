@@ -1,5 +1,8 @@
 _repo: The-sexagenarian-or-the-recollections-of-a-literary-life-Volume-2-of-2_72214
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72214-h/images/cover.jpg
 creator:
   author:
     agent_name: Beloe, William
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56585
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Rennell_(scholar)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72214#The-sexagenarian-or-the-recollections-of-a-literary-life-Volume-2-of-2
 gutenberg_issued: '2023-11-24'
 identifiers:
   gutenberg: '72214'
